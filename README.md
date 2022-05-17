@@ -1,10 +1,10 @@
 <!-- markdownlint-disable-file MD033 -->
 <!-- markdownlint-disable-file MD041 -->
 
-<h1 align="center">:dizzy: Ask me anything! :sparkles:</h1>
+<h1 align="center">:dizzy: Ask Me Anything! :sparkles:</h1>
 
 <h2 align="center">
-  <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
+  <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Cooking. Whatever. :joy:
