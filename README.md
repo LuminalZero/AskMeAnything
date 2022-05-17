@@ -7,7 +7,7 @@
   <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
 </h2>
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Cooking. Whatever. :joy:
+Anything means *anything*. Personal questions, money, work life, code, cooking, whatever. :joy:
 
 ### :memo: Guidelines
 
