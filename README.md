@@ -3,11 +3,9 @@
 
 <h1 align="center">:dizzy: Ask me anything! :sparkles:</h1>
 
-<br /><br/>
-
-<div align="center">
+<h2 align="center">
   <a href="../../issues/new">:speech_balloon: Ask a question</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc">:book: Read questions</a>
-</div>
+</h2>
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Cooking. Whatever. :joy:
 
